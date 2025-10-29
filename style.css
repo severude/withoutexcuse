@@ -26,6 +26,9 @@ img {
     width: 90%;
     border-radius: 1%;
 }
+strong {
+    font-weight: bold;
+}
 sup {
     color: blue;
     vertical-align: baseline;
